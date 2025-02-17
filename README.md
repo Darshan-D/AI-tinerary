@@ -7,8 +7,7 @@ AI-tinerary is an iOS application that leverages the power of Large Language Mod
 |---|---|
 | ![homeScreen](https://github.com/user-attachments/assets/59688b03-ad96-4a5b-9451-b6612b56a741) | ![enterDetailScreen](https://github.com/user-attachments/assets/8464979e-d05c-46ab-a682-ab2c0f2feb8f) |
 | Loading screen | Generated content |
-|---|---|
-| ![loadingScreen](https://github.com/user-attachments/assets/e2f686f6-9453-4060-9bf7-266347c33597)) | ![generatedContent](https://github.com/user-attachments/assets/6300c994-3b9f-4d0a-9d6d-ebc5c7e51071) |
+| ![loadingScreen](https://github.com/user-attachments/assets/e2f686f6-9453-4060-9bf7-266347c33597) | ![generatedContent](https://github.com/user-attachments/assets/6300c994-3b9f-4d0a-9d6d-ebc5c7e51071) |
 
 ## Features
 
