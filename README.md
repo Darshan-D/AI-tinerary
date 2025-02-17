@@ -22,8 +22,10 @@ AI-tinerary is an iOS application that leverages the power of Large Language Mod
 
 * Swift
 * Google Generative AI library
+* Lottie Library
 * JSON Encoding/Decoding
-* Auto Layout (for UI)
+* Auto Layout
+* UIKit
 
 ## Usage
 
